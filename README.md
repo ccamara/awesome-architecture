@@ -110,7 +110,8 @@ Languages and libraries for designers
 
 ## Vector Graphics Software
 
-* [Inkscape](https://inkscape.org/) - Professional vector graphics editor.
+* [Inkscape](https://inkscape.org/) - Vector graphics editor.
+* [FontForge](http://fontforge.github.io/) - Font editor.
 
 # Libreries
 
