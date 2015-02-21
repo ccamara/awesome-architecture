@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International Public License
 
-**Copyright (C) 2014 Pierpaolo Rasicci aka iSar**
+**Copyright (c) 2014 Pierpaolo Rasicci aka iSar**
 
 1.  You are free to:
     Copy and redistribute the material in any medium or format.
