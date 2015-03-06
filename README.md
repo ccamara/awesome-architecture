@@ -61,6 +61,8 @@ Computer-Aided Design Software
 * [LibreOffice](http://libreoffice.org/) - Office suite.
 * [Notepad++](http://notepad-plus-plus.org/) - Source code editor.
 * [OpenOffice](http://www.openoffice.org/) - Productivity suite.
+* [ConvertAll](http://convertall.bellz.org/) - Unit conversion program.
+* [Sej-da](http://www.sejda.org/) - Portable Document Format manipulation layer in Java.
 
 ## GIS Software
 Geographic Information System
