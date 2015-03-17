@@ -17,7 +17,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and sorted by [
     - [Raster Graphics Software](#raster-graphics-softwares)
     - [Script-based Design Applications](#script-based-design-applications)
     - [Vector Graphics Software](#vector-graphics-software)
-- [Libreries](#libreries)
+- [Libraries](#libraries)
     - [Models and Textures](#models-and-textures)
     - [Product Catalogues](#product-catalogues)
 - [Web Applications](#web-applications)
@@ -115,7 +115,7 @@ Languages and libraries for designers
 * [Inkscape](https://inkscape.org/) - Vector graphics editor.
 * [FontForge](http://fontforge.github.io/) - Font editor.
 
-# Libreries
+# Libraries
 
 ## Models and Textures
 
