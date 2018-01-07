@@ -68,6 +68,7 @@ Computer-Aided Design Software
 Geographic Information System
 
 * [GRASS GIS](http://grass.osgeo.org/) - Geographic Resources Analysis Support System suite.
+* [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps.
 * [QGIS](http://www.qgis.org/) - User friendly Geographic Information System tool.
 
 ## Electronic Mail Software
